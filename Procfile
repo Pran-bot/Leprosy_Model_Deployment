@@ -1,0 +1,1 @@
+web: uvicorn leprosy_testing:app --reload
